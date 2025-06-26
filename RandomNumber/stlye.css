@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(246, 177, 238);
+
+}
+#btn{
+    font-size: 3em;
+    background-color: aquamarine;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+
+}
+#myLabel{
+    font-size: 3em;
+    color: rgb(38, 38, 39);
+    margin-top: 20px;
+}
